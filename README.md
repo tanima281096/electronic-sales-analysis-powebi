@@ -1,4 +1,3 @@
-# electronic-sales-analysis-powebi
 # Electronic Device Sales Analysis | Power BI Project
 
 ## Dashboard Link: https://app.powerbi.com/groups/me/reports/c16b9197-2000-41a8-8775-307d616aa45d/bcca8f9e0dd5139a008c?experience=power-bi

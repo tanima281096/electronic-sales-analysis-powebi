@@ -120,8 +120,8 @@ Based on the analysis, the following recommendations can be made:
 ```
 electronic-sales-analysis/
 ├── data/
-│   ├── raw_data.xlsx
-│   └── processed_data.csv
+│   ├── mobile_sales_data.xlsx
+│   └── mobile_sales_data.csv
 ├── power_bi/
 │   ├── electronic_sales_dashboard.pbix
 │  

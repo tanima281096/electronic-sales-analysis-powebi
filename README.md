@@ -141,7 +141,7 @@ electronic-sales-analysis/
 ### Installation
 1. Clone this repository
    ```
-   git clone https://github.com/username/electronic-sales-analysis.git
+   git clone https://github.com/tanima281096/electronic-sales-analysis.git
    ```
 2. Open the `.pbix` file using Power BI Desktop
 3. Refresh data connections if needed (requires appropriate access)
@@ -166,10 +166,8 @@ Data Analyst with expertise in business intelligence tools and a passion for tra
 
 ## 📬 Contact Information
 
-- **GitHub**: [Your GitHub Username](https://github.com/username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [Your Personal Website](https://yourportfolio.com)
-- **Email**: your.email@example.com
+- **GitHub**: [Your GitHub Username](https://github.com/tanima281096)
+- **Email**: sajedashaheen1996@gmail.com
 
 ---
 

@@ -123,13 +123,15 @@ electronic-sales-analysis/
 ├── data/
 │   ├── mobile_sales_data.xlsx
 │   └── mobile_sales_data.csv
+│   └── Sample - Superstore.xls
 ├── power_bi/
 │   ├── electronic_sales_dashboard.pbix
+├── tableau/
+│   ├── tableau assignment.twb
 │  
 ├── images/
-│   ├── dashboard_preview.png
-│   ├── regional_analysis.png
-│   └── yearly_trends.png
+│   ├── powerbi
+│   ├── tableau
 └── README.md
 ```
 
